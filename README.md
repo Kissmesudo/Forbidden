@@ -8,3 +8,6 @@ Low Ping (20 - 50) can block all killers
 
 
 some extra Functions like ESP
+
+
+Fixed ESP lag
