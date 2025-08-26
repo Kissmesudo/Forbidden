@@ -11,3 +11,5 @@ some extra Functions like ESP
 
 
 Fixed ESP lag
+
+Added: Automatic role detector
